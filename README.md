@@ -1,0 +1,2 @@
+# -Git-Cloud-Module-Challenge-Setting-up-a-Bare-Repository-on-a-Storage-Server
+In this challenge, I learned how to SSH into a remote server, install Git, and create a bare Git repository on a storage server. The journey included some troubleshooting, learning about directory paths, and understanding system-wide permissions. This README generalizes the experience so it can be applied to any user and server.
