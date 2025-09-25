@@ -165,15 +165,6 @@ ls -l /opt/official.git
 
 ---
 
-## 📸 Screenshots / Verification
-
-* SSH into server
-* Yum installation of Git
-* `/opt` directory listing
-* Bare repository structure
-
----
-
 ## ✅ References
 
 * [Git Documentation: git init](https://git-scm.com/docs/git-init)
